@@ -71,3 +71,14 @@ if __name__ == "__main__":
     R1, R2, R3, R4, R5, R6 = regresion_exponencial(P1), regresion_lineal(P2), regresion_lineal(P3), regresion_exponencial(P4), regresion_lineal(P5), regresion_lineal(P6)
     # print(R1, R2, R3, R4, R5, R6)
     print(R1["ecuacion"], R2["ecuacion"], R3["ecuacion"], R4["ecuacion"], R5["ecuacion"], R6["ecuacion"], sep="\n")
+
+# -------------------------------
+# Resultados (ecuaciones)
+# -------------------------------
+# (1) ... y = 1.1442 * (1.7846)^x
+# (2) ... y = 1.0000 + 0.8267x
+# (3) ... y = 1.0000 + 0.9200x
+# (4) ... y = 0.9770 * (1.6727)^x
+# (5) ... y = 1.0000 + 0.5567x
+# (6) ... y = 1.0000 + 0.5567x
+
